@@ -17,3 +17,10 @@ tools.
   author={Paran, Ashraful Islam and Hossain, Md Sajjad and Shohan, Symom Hossain and Hossain, Jawad and Ahsan, Shawly and Hoque, Mohammed Moshiul},
   year={2024}
 }
+
+# Definition
+Systems are challenged to distinguish whether a sentence from a news article expresses the subjective view of the author behind it or presents an objective view on the covered topic instead.
+
+This is a binary classification tasks in which systems have to identify whether a text sequence (a sentence or a paragraph) is subjective or objective.
+
+The task is offered in five languages: Arabic, Bulgarian, English, German and Italian, plus Multilingual.
