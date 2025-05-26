@@ -18,6 +18,12 @@ tools.
   year={2024}
 }
 
+
+# Methodology
+![alt text](image-1.png)
+# Results
+![alt text](image-2.png)
+
 # Definition
 Systems are challenged to distinguish whether a sentence from a news article expresses the subjective view of the author behind it or presents an objective view on the covered topic instead.
 
